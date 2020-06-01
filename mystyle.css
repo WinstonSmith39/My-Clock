@@ -1,0 +1,29 @@
+
+html,
+body {
+    font-size: 25px;
+    min-height: 100%;
+    margin: 0;
+    background-color: white;
+    color: black;
+    width: 100%;
+}
+
+.clock {
+    margin: 0 0 0 0;
+    text-align: center;
+    min-height: 200px;
+}
+
+.clock h1 {
+    color: blue;
+    font-size: 30;
+}
+
+.clock p {
+    color: blue;
+}
+
+.clock id {
+    font-size: 5;
+}
